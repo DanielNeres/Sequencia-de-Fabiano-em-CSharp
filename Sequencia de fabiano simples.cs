@@ -9,4 +9,3 @@
 	// vale salientar que essa variavel só começa a registrar o numero anterior a impreção ao final do primeiro laço, e que essa logica só começa a fazer sentido após o primeiro laço
 		numeroanterior = numeroimprecao - numeroanterior; 
     }
-		return 0;
