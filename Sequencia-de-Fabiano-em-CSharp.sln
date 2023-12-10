@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sequencia-de-Fabiano-Ao-Contrario", "Sequencia de Fabiano Ao Contrario\Sequencia-de-Fabiano-Ao-Contrario.csproj", "{B732426F-ED13-4D47-9A0B-4B9FA534FE76}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sequencia de fabiano simples", "Sequencia de fabiano simples\Sequencia de fabiano simples.csproj", "{3A8E1FC3-FDCE-43C1-844D-F375016C86E0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B732426F-ED13-4D47-9A0B-4B9FA534FE76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B732426F-ED13-4D47-9A0B-4B9FA534FE76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B732426F-ED13-4D47-9A0B-4B9FA534FE76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B732426F-ED13-4D47-9A0B-4B9FA534FE76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A8E1FC3-FDCE-43C1-844D-F375016C86E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A8E1FC3-FDCE-43C1-844D-F375016C86E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A8E1FC3-FDCE-43C1-844D-F375016C86E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A8E1FC3-FDCE-43C1-844D-F375016C86E0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D80FAA19-578C-4D4E-86E3-4E7CDF97B9E7}
+	EndGlobalSection
+EndGlobal
