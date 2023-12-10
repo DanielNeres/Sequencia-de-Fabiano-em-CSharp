@@ -1,10 +1,10 @@
-using System;
-
-namespace sequenciadefabiano
+﻿namespace sequenciadefabiano
 {
+
     class Program
     {
-        static void main()
+
+        static void Main()
         {
             int numeroimprecao, i;
             // incia um for que percorre todas a sequencia de fibonacci, comeÃ§ando de i atÃ© i=0
