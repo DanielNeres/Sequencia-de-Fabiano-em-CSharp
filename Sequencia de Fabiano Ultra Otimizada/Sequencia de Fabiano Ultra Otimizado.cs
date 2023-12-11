@@ -5,9 +5,8 @@
         static void Main()
         {
             ulong numeroimprecao = 0, numeroanterior = 1;
-            int i; 
             // inicia um for que define o tamanho da sequência atravez da variavel i
-            for(i = 0; i < 10; i++)
+            for(; numeroimprecao <= 34;)
             {
                 // importante imprimir o numero antes que o valor seja modificado
                 Console.WriteLine(numeroimprecao); 
