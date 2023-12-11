@@ -12,7 +12,8 @@
                 Console.WriteLine(numeroimprecao); 
                 // soma o numero de impreção a outra variavel, que no incio serve para inciar a sequencia, mas após o primeiro laço ele reistra o ultimp balor usado na impreção
                 numeroimprecao += numeroanterior; 
-               // soma o numero de impreção a outra variavel, que contem o ultimo numero da sequencia, que no incio ela vale 0
+                // atualiza o numero anterior que foi usado na impreção, por meio da diferença entre o numero impreço e o numero anterior ao anterior deste, por exemplo 8, e feita a diferença entre 8 e dois numeros anteriores a ele, assim ficaria (-8) - (-3) = -5 que é o numero anterior a 8
+	            // vale salientar que essa variavel só começa a registrar o numero anterior a impreção ao final do primeiro laço, e que essa logica só começa a fazer sentido após o primeiro laço
                 numeroanterior = numeroimprecao - numeroanterior; 
             } // atualiza o numero anterior que foi usado na impreção, por meio da diferença entre o numero impreço e o numero anterior ao anterior deste, por exemplo 8, e feita a diferença entre 8 e dois numeros anteriores a ele, assim ficaria 8 - 3 = 5 que é o numero anterior a 8
         }
