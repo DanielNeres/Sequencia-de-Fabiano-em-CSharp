@@ -4,7 +4,8 @@
     {
         static void Main()
         {
-            int numeroimprecao = 0, numeroanterior = 1, i; 
+            ulong numeroimprecao = 0, numeroanterior = 1;
+            int i; 
             // inicia um for que define o tamanho da sequência atravez da variavel i
             for(i = 0; i < 10; i++)
             {
