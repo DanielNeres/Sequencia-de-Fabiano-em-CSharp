@@ -4,6 +4,7 @@
     {
         static void Main()
         {
+            // a declaração "ulong" serve para tornar a variavel a maior possivel, pois o "u" retira o sinal liberando um bit, e o "long" estende a variavel int
             ulong numeroimprecao = 0, numeroanterior = 1;
             // inicia um for que define o tamanho da sequência atravez da variavel i
             for(; numeroimprecao <= 34;)
